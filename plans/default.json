@@ -1,0 +1,4 @@
+[
+  {"time": "08:00", "description": "Studio blocco 1", "repeat": "daily", "confirm": true},
+  {"time": "09:00", "description": "Studio blocco 2", "repeat": "daily", "confirm": true}
+]
